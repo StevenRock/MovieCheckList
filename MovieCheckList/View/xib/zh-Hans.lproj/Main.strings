@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "name"; ObjectID = "5Ek-rP-39m"; */
+"5Ek-rP-39m.text" = "name";
+
+/* Class = "UIButton"; normalTitle = "PREVIOUS"; ObjectID = "6lv-oa-BJe"; */
+"6lv-oa-BJe.normalTitle" = "PREVIOUS";
+
+/* Class = "UITabBarItem"; title = "CheckList"; ObjectID = "D82-H1-slE"; */
+"D82-H1-slE.title" = "CheckList";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DER-Jx-SBP"; */
+"DER-Jx-SBP.text" = "Label";
+
+/* Class = "UILabel"; text = "releaseDate"; ObjectID = "G4t-Qi-A0W"; */
+"G4t-Qi-A0W.text" = "releaseDate";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "HFD-1d-CbV"; */
+"HFD-1d-CbV.text" = "title";
+
+/* Class = "UILabel"; text = "character"; ObjectID = "I5W-vN-0kA"; */
+"I5W-vN-0kA.text" = "character";
+
+/* Class = "UILabel"; text = "voteAvg"; ObjectID = "Kjp-wr-T92"; */
+"Kjp-wr-T92.text" = "voteAvg";
+
+/* Class = "UIButton"; normalTitle = "add Fav"; ObjectID = "P0a-Bo-ANr"; */
+"P0a-Bo-ANr.normalTitle" = "add Fav";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qcq-xj-hwD"; */
+"Qcq-xj-hwD.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "WrI-Kf-K3H"; */
+"WrI-Kf-K3H.title" = "Item 1";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "oE5-cT-4Ma"; */
+"oE5-cT-4Ma.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "isWatched"; ObjectID = "woC-YU-lxy"; */
+"woC-YU-lxy.text" = "isWatched";
+
+/* Class = "UITabBarItem"; title = "Movie"; ObjectID = "zck-Wj-AMc"; */
+"zck-Wj-AMc.title" = "Movie";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "zfo-5e-us3"; */
+"zfo-5e-us3.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";

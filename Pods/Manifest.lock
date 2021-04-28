@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (5.2.1)
+  - Kingfisher (5.15.0):
+    - Kingfisher/Core (= 5.15.0)
+  - Kingfisher/Core (5.15.0)
+  - lottie-ios (3.2.1)
+  - Magnetic (3.2.1)
+  - MarqueeLabel (4.0.2)
+  - NVActivityIndicatorView (5.0.0):
+    - NVActivityIndicatorView/Base (= 5.0.0)
+  - NVActivityIndicatorView/Base (5.0.0)
+  - SCLAlertView (0.8)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - lottie-ios
+  - Magnetic
+  - MarqueeLabel
+  - NVActivityIndicatorView
+  - SCLAlertView
+  - SnapKit (~> 5.0.0)
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - lottie-ios
+    - Magnetic
+    - MarqueeLabel
+    - NVActivityIndicatorView
+    - SCLAlertView
+    - SnapKit
+    - SVProgressHUD
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  Kingfisher: 1acb67597a520c2d0310677e66d6e0af455ef757
+  lottie-ios: 106e92eaf11fbed0a76590b4cdb9b5ec26123ff7
+  Magnetic: 02b9d6686160421cc4285140387419ec9ccab033
+  MarqueeLabel: f762aa681ae201f66c1d511858b171f75d83013a
+  NVActivityIndicatorView: f109ed069924ac1b4adbc1ae9cfaeac0be1d6c2c
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: e1fe313e2eb2ab816ff2be05b3389961532067b7
+
+COCOAPODS: 1.10.1

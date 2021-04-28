@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  MovieCheckList
+
+  Created by Steven Lin on 2020/9/11.
+  Copyright © 2020 Steven Lin. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "电影好想看";
